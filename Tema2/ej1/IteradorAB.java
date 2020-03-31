@@ -1,4 +1,4 @@
-package tema2;
+package ej1;
 
 public class IteradorAB {
 
